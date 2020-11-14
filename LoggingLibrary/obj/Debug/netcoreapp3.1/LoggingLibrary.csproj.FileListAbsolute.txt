@@ -1,0 +1,8 @@
+D:\Программирование\Repository\Logging\LoggingLibrary\bin\Debug\netcoreapp3.1\LoggingLibrary.deps.json
+D:\Программирование\Repository\Logging\LoggingLibrary\bin\Debug\netcoreapp3.1\LoggingLibrary.dll
+D:\Программирование\Repository\Logging\LoggingLibrary\bin\Debug\netcoreapp3.1\LoggingLibrary.pdb
+D:\Программирование\Repository\Logging\LoggingLibrary\obj\Debug\netcoreapp3.1\LoggingLibrary.AssemblyInfoInputs.cache
+D:\Программирование\Repository\Logging\LoggingLibrary\obj\Debug\netcoreapp3.1\LoggingLibrary.AssemblyInfo.cs
+D:\Программирование\Repository\Logging\LoggingLibrary\obj\Debug\netcoreapp3.1\LoggingLibrary.csproj.CoreCompileInputs.cache
+D:\Программирование\Repository\Logging\LoggingLibrary\obj\Debug\netcoreapp3.1\LoggingLibrary.dll
+D:\Программирование\Repository\Logging\LoggingLibrary\obj\Debug\netcoreapp3.1\LoggingLibrary.pdb
